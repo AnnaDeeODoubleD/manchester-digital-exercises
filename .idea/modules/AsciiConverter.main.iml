@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="AsciiConverter:main" external.linked.project.path="$MODULE_DIR$/../../AsciiConverter" external.root.project.path="$MODULE_DIR$/../../AsciiConverter" external.system.id="GRADLE" external.system.module.group="com.mdigital" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../AsciiConverter/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../AsciiConverter/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../AsciiConverter/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../AsciiConverter/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="jdk" jdkName="25" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

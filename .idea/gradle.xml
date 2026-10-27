@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AmountOfChangeGiven" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/AmountOfChangeGiven" />
+          </set>
+        </option>
+        <option name="myGradleHome" value="" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AsciiConverter" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/AsciiConverter" />
+          </set>
+        </option>
+        <option name="myGradleHome" value="" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AsciiSimple" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/AsciiSimple" />
+          </set>
+        </option>
+        <option name="myGradleHome" value="" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Fibonacci" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Fibonacci" />
+          </set>
+        </option>
+        <option name="myGradleHome" value="" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/RomanNumerals" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/RomanNumerals" />
+          </set>
+        </option>
+        <option name="myGradleHome" value="" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mdbc-session-6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/mdbc-session-6" />
+          </set>
+        </option>
+        <option name="myGradleHome" value="" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/session-1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/session-1" />
+          </set>
+        </option>
+        <option name="myGradleHome" value="" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/session-3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/session-3" />
+          </set>
+        </option>
+        <option name="myGradleHome" value="" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/session-4" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/session-4" />
+          </set>
+        </option>
+        <option name="myGradleHome" value="" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/session-5" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/session-5" />
+          </set>
+        </option>
+        <option name="myGradleHome" value="" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/session-6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/session-6" />
+          </set>
+        </option>
+        <option name="myGradleHome" value="" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/session-8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/session-8" />
+          </set>
+        </option>
+        <option name="myGradleHome" value="" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sumofsequence" />
+        <option name="myGradleHome" value="" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

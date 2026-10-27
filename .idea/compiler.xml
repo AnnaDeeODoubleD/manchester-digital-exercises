@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="AmountOfChangeGiven" target="25" />
+      <module name="AmountOfChangeGiven.main" target="25" />
+      <module name="AmountOfChangeGiven.test" target="25" />
+      <module name="AsciiConverter" target="25" />
+      <module name="AsciiConverter.main" target="25" />
+      <module name="AsciiConverter.test" target="25" />
+      <module name="AsciiSimple" target="25" />
+      <module name="AsciiSimple.main" target="25" />
+      <module name="AsciiSimple.test" target="25" />
+      <module name="Fibonacci" target="25" />
+      <module name="Fibonacci.main" target="25" />
+      <module name="Fibonacci.test" target="25" />
+      <module name="mdbc-session-6" target="25" />
+      <module name="mdbc-session-6.main" target="25" />
+      <module name="mdbc-session-6.test" target="25" />
+      <module name="RomanNumerals" target="25" />
+      <module name="RomanNumerals.main" target="25" />
+      <module name="RomanNumerals.test" target="25" />
+      <module name="session-1" target="25" />
+      <module name="session-1.main" target="25" />
+      <module name="session-1.test" target="25" />
+      <module name="session-3" target="25" />
+      <module name="session-3.main" target="25" />
+      <module name="session-3.test" target="25" />
+      <module name="session-4" target="25" />
+      <module name="session-4.main" target="25" />
+      <module name="session-4.test" target="25" />
+      <module name="session-5" target="25" />
+      <module name="session-5.main" target="25" />
+      <module name="session-5.test" target="25" />
+      <module name="session-6" target="25" />
+      <module name="session-6.main" target="25" />
+      <module name="session-6.test" target="25" />
+      <module name="session-8" target="25" />
+      <module name="session-8.main" target="25" />
+      <module name="session-8.test" target="25" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

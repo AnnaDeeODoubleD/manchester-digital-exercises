@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AmountOfChangeGiven.iml" filepath="$PROJECT_DIR$/.idea/modules/AmountOfChangeGiven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AmountOfChangeGiven.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AmountOfChangeGiven.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AmountOfChangeGiven.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AmountOfChangeGiven.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AsciiConverter.iml" filepath="$PROJECT_DIR$/.idea/modules/AsciiConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AsciiConverter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AsciiConverter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AsciiConverter.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AsciiConverter.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AsciiSimple.iml" filepath="$PROJECT_DIR$/.idea/modules/AsciiSimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AsciiSimple.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AsciiSimple.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AsciiSimple.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AsciiSimple.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fibonacci.iml" filepath="$PROJECT_DIR$/.idea/modules/Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fibonacci.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Fibonacci.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fibonacci.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Fibonacci.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RomanNumerals.iml" filepath="$PROJECT_DIR$/.idea/modules/RomanNumerals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RomanNumerals.main.iml" filepath="$PROJECT_DIR$/.idea/modules/RomanNumerals.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RomanNumerals.test.iml" filepath="$PROJECT_DIR$/.idea/modules/RomanNumerals.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/manchester-digital-exercises.iml" filepath="$PROJECT_DIR$/.idea/manchester-digital-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mdbc-session-6.iml" filepath="$PROJECT_DIR$/.idea/modules/mdbc-session-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mdbc-session-6.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mdbc-session-6.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mdbc-session-6.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mdbc-session-6.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session-1.iml" filepath="$PROJECT_DIR$/.idea/modules/session-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session-1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/session-1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session-1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/session-1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session-3.iml" filepath="$PROJECT_DIR$/session-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session-3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/session-3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session-3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/session-3.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session-4.iml" filepath="$PROJECT_DIR$/session-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session-4.main.iml" filepath="$PROJECT_DIR$/.idea/modules/session-4.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session-4.test.iml" filepath="$PROJECT_DIR$/.idea/modules/session-4.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session-5.iml" filepath="$PROJECT_DIR$/session-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session-5.main.iml" filepath="$PROJECT_DIR$/.idea/modules/session-5.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session-5.test.iml" filepath="$PROJECT_DIR$/.idea/modules/session-5.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session-6.iml" filepath="$PROJECT_DIR$/session-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session-6.main.iml" filepath="$PROJECT_DIR$/.idea/modules/session-6.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session-6.test.iml" filepath="$PROJECT_DIR$/.idea/modules/session-6.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session-8.iml" filepath="$PROJECT_DIR$/session-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session-8.main.iml" filepath="$PROJECT_DIR$/.idea/modules/session-8.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/session-8.test.iml" filepath="$PROJECT_DIR$/.idea/modules/session-8.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sumofsequence.iml" filepath="$PROJECT_DIR$/sumofsequence.iml" />
+    </modules>
+  </component>
+</project>
